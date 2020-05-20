@@ -21,5 +21,14 @@ namespace PackerTracker.Tests
       Assert.AreEqual(priceTest, supply.Price);
       Assert.AreEqual(idTest, supply.ID);
     }
+    [TestMethod]
+    public void PackConstructor_HoldsInstanceOfSupplies_Pack()
+    {
+      string description = "this is something you eat";
+      Supplies supply = new Supplies("food", description, 2, 100);
+
+      string nameTest = "food";
+      int priceTest = 2, idTest = 100;
+    }
   }
 }
