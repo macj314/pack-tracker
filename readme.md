@@ -1,4 +1,4 @@
-# _Epicodus C# Packer Tracker_
+# _Epicodus C# Pack Tracker_
 
 #### Date: May 20th, 2020
 #### By **Jason Macie**
@@ -12,7 +12,7 @@ This is a program for users to catalog supplies for a camping trip. Users should
 This program requires ASP.NET Core to be installed.
 
 1. Clone this repository
-2. Navigate to the repo in command console. Then navigate to PackerTracker directory.
+2. Navigate to the repo in command console. Then navigate to PackTracker directory.
 3. Run dotnet restore
 4. Run dotnet build
 5. Run dotnet run

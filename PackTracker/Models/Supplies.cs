@@ -1,4 +1,4 @@
-namespace PackerTracker.Models
+namespace PackTracker.Models
 {
   public class Supplies
   {

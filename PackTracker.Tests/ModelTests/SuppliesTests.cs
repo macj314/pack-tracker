@@ -1,8 +1,8 @@
 // using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PackerTracker.Models;
+using PackTracker.Models;
 
-namespace PackerTracker.Tests
+namespace PackTracker.Tests
 {
   [TestClass]
   public class SuppliesTests
